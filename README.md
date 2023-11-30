@@ -176,10 +176,28 @@
                 background: #fdfcf9 no-repeat fixed top left;
                 font-family:'Open Sans', sans-serif;
               }
+            .jumbotron {
+              /* padding: 1rem 1rem; */
+              margin-bottom: 1rem;
+              background-color: #ebf0f1; /*#e9ecef;*/ 
+              border-radius: 0.3rem;
+            }
+            
+            @media (min-width: 576px) {
+              .jumbotron {
+                padding: 4rem 2rem;
+              }
+            }
+            
+            .jumbotron-fluid {
+              padding-right: 0;
+              padding-left: 0;
+              border-radius: 0;
+            }
         </style>
     </head>
 
-      <!-- cover -->
+<!-- cover -->
   <section>
     <div class="jumbotron text-center mt-0">
       <div class="container">
@@ -333,7 +351,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col text-center">
-                        <video hight="50%" width="100%" playsinline controls autoplay loop="loop" preload muted>
+                        <video hight="50%" width="30%" playsinline controls autoplay loop="loop" preload muted>
                             <source src="https://github.com/anoymousauthor/anoymousauthor.github.io/releases/download/v0.0/phone.demo.mp4" type="video/mp4">
                         </video>
                     </div>
