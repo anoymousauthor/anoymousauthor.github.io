@@ -297,7 +297,6 @@
                    <div class="col-12 text-left">
                         <h3>KPD:</h3>
                         <hr class="style10">
-                        <br>
                     </div>
     				<div class="col text-center">
     					<img class="img-fluid" src="data/model/KPD.png" alt="KPD Network structure" width="100%">
@@ -306,9 +305,9 @@
     
     			<div class="row">
                    <div class="col-12 text-left">
+                        <br>
                         <h3>PMG:</h3>
                         <hr class="style10">
-                        <br>
                     </div>
     				<div class="col text-center">
     					<img class="img-fluid" src="data/model/PMG.png" alt="PMG Network structure" width="100%">
@@ -320,11 +319,11 @@
                         <br>
                         <h3>AFG:</h3>
                         <hr class="style10">
-                        <br>
                     </div>
     				<div class="col text-center">
     					<img class="img-fluid" src="data/model/AFG.png" alt="AFG Network structure" width="100%">
     				</div>
+                    <br>
                     <hr class="style13">
     			</div>
     		</div>
@@ -351,10 +350,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col text-center">
-                        <video hight="50%" width="30%" playsinline controls autoplay loop="loop" preload muted>
+                        <video hight="50%" width="20%" playsinline controls autoplay loop="loop" preload muted>
                             <source src="https://github.com/anoymousauthor/anoymousauthor.github.io/releases/download/v0.0/phone.demo.mp4" type="video/mp4">
                         </video>
                     </div>
+                    <br>
                     <hr class="style13">
                 </div>
             </div>
