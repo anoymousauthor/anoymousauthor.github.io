@@ -1,4 +1,3 @@
-# SlimFit-Gens: Extremely-low Bandwidth One-on-one Video Calls on Mobile Devices
 <html>
     <head>
         <link href="css/bootstrap-4.4.1.css" rel="stylesheet">
@@ -173,7 +172,7 @@
               border-radius: 20px; 
             }
             body {
-                background: #fdfcf9 no-repeat fixed top left;
+                background: #ffffff no-repeat fixed top left;
                 font-family:'Open Sans', sans-serif;
               }
             .jumbotron {
@@ -203,41 +202,7 @@
       <div class="container">
         <div class="row">
           <div class="col">
-            <h2 style="font-size:30px;">NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video</h2>
-            <h4 style="color:#6e6e6e;"> CVPR 2021</h4>
-            <h5 style="color:#6e6e6e;"> (Oral Presentation and Best Paper Candidate)</h5>
-            <hr>
-            <h6> <a href="https://jiamingsun.ml/" target="_blank">Jiaming Sun</a><sup>1,2*</sup>, 
-                 <a href="https://ymingxie.github.io/" target="_blank">Yiming Xie</a><sup>1*</sup>, 
-                 <!-- <a href="https://ymingxie.github.io/" target="_blank">Yiming Xie</a><sup>1,2*</sup>,  -->
-                <a href="https://ootts.github.io/" target="_blank">Linghao Chen</a><sup>1</sup>,
-                <a href="http://xzhou.me" target="_blank">Xiaowei Zhou</a><sup>1</sup>,
-                <a href="http://www.cad.zju.edu.cn/bao/" target="_blank">Hujun Bao</a><sup>1</sup></h6>
-            <p> <sup>1</sup>State Key Lab of CAD & CG, Zhejiang University &nbsp;&nbsp; 
-                <sup>2</sup>SenseTime Research
-                <br>
-                <sup>*</sup> denotes equal contribution
-            </p>
-            <!-- <p> <a class="btn btn-secondary btn-lg" href="" role="button">Paper</a> 
-                <a class="btn btn-secondary btn-lg" href="" role="button">Code</a> 
-                <a class="btn btn-secondary btn-lg" href="" role="button">Data</a> </p> -->
-
-            <div class="row justify-content-center">
-              <div class="column">
-                  <p class="mb-5"><a class="btn btn-large btn-light" href="https://arxiv.org/pdf/2104.00681.pdf" role="button"  target="_blank">
-                    <i class="fa fa-file"></i> Paper</a> </p>
-              </div>
-              <div class="column">
-                  <p class="mb-5"><a class="btn btn-large btn-light" id="code_soon" href="https://github.com/zju3dv/NeuralRecon" role="button" 
-                    target="_blank" disabled=1>
-                <i class="fa fa-github-alt"></i> Code </a> </p>
-              </div>
-              <div class="column">
-                  <p class="mb-5"><a class="btn btn-large btn-light" href="files/NeuralRecon-suppmat.pdf" role="button"  target="_blank">
-                    <i class="fa fa-file"></i> Supplementary</a> </p>
-              </div>
-            </div>
-            
+            <h2 style="font-size:30px;">SlimFit-Gens: Extremely-low Bandwidth One-on-one Video Calls on Mobile Devices</h2>            
           </div>
         </div>
       </div>
@@ -297,6 +262,7 @@
                    <div class="col-12 text-left">
                         <h3>KPD:</h3>
                         <hr class="style10">
+                        <br>
                     </div>
     				<div class="col text-center">
     					<img class="img-fluid" src="data/model/KPD.png" alt="KPD Network structure" width="100%">
@@ -308,6 +274,7 @@
                         <br>
                         <h3>PMG:</h3>
                         <hr class="style10">
+                        <br>
                     </div>
     				<div class="col text-center">
     					<img class="img-fluid" src="data/model/PMG.png" alt="PMG Network structure" width="100%">
@@ -319,6 +286,7 @@
                         <br>
                         <h3>AFG:</h3>
                         <hr class="style10">
+                        <br>
                     </div>
     				<div class="col text-center">
     					<img class="img-fluid" src="data/model/AFG.png" alt="AFG Network structure" width="100%">
@@ -350,7 +318,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col text-center">
-                        <video hight="50%" width="20%" playsinline controls autoplay loop="loop" preload muted>
+                        <video hight="50%" width="35%" playsinline controls autoplay loop="loop" preload muted>
                             <source src="https://github.com/anoymousauthor/anoymousauthor.github.io/releases/download/v0.0/phone.demo.mp4" type="video/mp4">
                         </video>
                     </div>
