@@ -1,5 +1,4 @@
-# VIDAR: Data Quality Improvement for Monocular 3D Reconstruction through In-situ Visual Interaction
-
+# SlimFit-Gens: Extremely-low Bandwidth One-on-one Video Calls on Mobile Devices
 <html>
     <head>
         <style>
