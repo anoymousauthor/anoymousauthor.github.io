@@ -1,56 +1,4 @@
-
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>VIDAR: Data Quality Improvement for Monocular 3D Reconstruction through In-situ Visual Interaction | VIDAR.github.io</title>
-<meta name="generator" content="Jekyll v3.9.2" />
-<meta property="og:title" content="VIDAR: Data Quality Improvement for Monocular 3D Reconstruction through In-situ Visual Interaction" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://growthin2023.github.io/VIDAR.github.io/" />
-<meta property="og:url" content="https://growthin2023.github.io/VIDAR.github.io/" />
-<meta property="og:site_name" content="VIDAR.github.io" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="VIDAR: Data Quality Improvement for Monocular 3D Reconstruction through In-situ Visual Interaction" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"VIDAR: Data Quality Improvement for Monocular 3D Reconstruction through In-situ Visual Interaction","name":"VIDAR.github.io","url":"https://growthin2023.github.io/VIDAR.github.io/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/VIDAR.github.io/assets/css/style.css?v=bb855d8a43c493bf5e93d637aa121f33bbb0ad81">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/VIDAR.github.io/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
-    <header class="page-header" role="banner">
-      <h1 class="project-name">VIDAR: Data Quality Improvement for Monocular 3D Reconstruction through In-situ Visual Interaction</h1>
-      <h2 class="project-tagline"></h2>
-      
-        <a href="https://github.com/growthin2023/VIDAR.github.io" class="btn">View on GitHub</a>
-      
-      
-    </header>
-
-    <main id="content" class="main-content" role="main">
-      <h1 id="vidar-data-quality-improvement-for-monocular-3d-reconstruction-through-in-situ-visual-interaction">VIDAR: Data Quality Improvement for Monocular 3D Reconstruction through In-situ Visual Interaction</h1>
+# VIDAR: Data Quality Improvement for Monocular 3D Reconstruction through In-situ Visual Interaction
 
 <html>
     <head>
@@ -138,14 +86,14 @@
     
     <body>
         <!-- Real-time Interactive Reconstruction Demo -->
-        <br />
+        <br>
         <section>
             <div class="container">
                 <div class="row">
                     <div class="col-12 text-center">
                         <h3>Our Interactive Reconstruction Demo</h3>
-                        <hr style="margin-top:0px" />
-                        <br />
+                        <hr style="margin-top:0px">
+                        <br>
                     </div>
                 </div>
             </div> 
@@ -154,43 +102,43 @@
             <div class="container">
                 <div class="row">
                     <div class="col text-center">
-                        <video width="100%" playsinline="" controls="" autoplay="" loop="loop" preload="" muted="">
-                            <source src="https://github.com/growthin2023/VIDAR.github.io/releases/download/v0.0/third_view.mp4" type="video/mp4" />
+                        <video width="100%" playsinline controls autoplay loop="loop" preload muted>
+                            <source src="https://github.com/growthin2023/VIDAR.github.io/releases/download/v0.0/third_view.mp4" type="video/mp4">
                         </video>
                     </div>
                 </div>
             </div>
         </section>
     
-        <br />
-        <br />
+        <br>
+        <br>
     
         <!-- Comparison with Baseline -->
-        <br />
+        <br>
         <section>
             <div class="container">
                 <div class="row">
                     <div class="col-12 text-center">
                         <h3>Comparison with Baseline on Real-world Scenes</h3>
-                        <hr style="margin-top:0px" />
-                        <br />
+                        <hr style="margin-top:0px">
+                        <br>
                     </div>
                 </div>
             </div> 
         </section>
-        <br />
+        <br>
     
         <section>
             <div class="container">
                 <div class="row">
                     <div class="col text-center">
-                        <video width="100%" playsinline="" controls="" autoplay="" loop="loop" preload="" muted="">
-                            <source src="https://github.com/growthin2023/VIDAR.github.io/releases/download/v0.0/Bench.mp4" type="video/mp4" />
+                        <video width="100%" playsinline controls autoplay loop="loop" preload muted>
+                            <source src="https://github.com/growthin2023/VIDAR.github.io/releases/download/v0.0/Bench.mp4" type="video/mp4">
                         </video>
                     </div>
                     <div class="col text-center">
-                        <video width="100%" playsinline="" controls="" autoplay="" loop="loop" preload="" muted="">
-                            <source src="https://github.com/growthin2023/VIDAR.github.io/releases/download/v0.0/Sofa.mp4" type="video/mp4" />
+                        <video width="100%" playsinline controls autoplay loop="loop" preload muted>
+                            <source src="https://github.com/growthin2023/VIDAR.github.io/releases/download/v0.0/Sofa.mp4" type="video/mp4">
                         </video>
                     </div>
                 </div>
@@ -203,17 +151,17 @@
                     </div>
                 </div>
     
-                <br />
+                <br>
     
                 <div class="row">
                     <div class="col text-center">
-                        <video width="100%" playsinline="" controls="" autoplay="" loop="loop" preload="" muted="">
-                            <source src="https://github.com/growthin2023/VIDAR.github.io/releases/download/v0.0/Corridor.mp4" type="video/mp4" />
+                        <video width="100%" playsinline controls autoplay loop="loop" preload muted>
+                            <source src="https://github.com/growthin2023/VIDAR.github.io/releases/download/v0.0/Corridor.mp4" type="video/mp4">
                         </video>
                     </div>
                     <div class="col text-center">
-                        <video width="100%" playsinline="" controls="" autoplay="" loop="loop" preload="" muted="">
-                            <source src="https://github.com/growthin2023/VIDAR.github.io/releases/download/v0.0/Desk.mp4" type="video/mp4" />
+                        <video width="100%" playsinline controls autoplay loop="loop" preload muted>
+                            <source src="https://github.com/growthin2023/VIDAR.github.io/releases/download/v0.0/Desk.mp4" type="video/mp4">
                         </video>
                     </div>
                 </div>
@@ -228,18 +176,18 @@
             </div>
         </section>
     
-        <br />
-        <br />
+        <br>
+        <br>
     
         <!-- Data Transmission Analysis -->
-        <br />
+        <br>
         <section>
             <div class="container">
                 <div class="row">
                     <div class="col-12 text-center">
                         <h3>Data Transmission Analysis</h3>
-                        <hr style="margin-top:0px" />
-                        <br />
+                        <hr style="margin-top:0px">
+                        <br>
                     </div>
                 </div>
             </div> 
@@ -248,30 +196,30 @@
             <div class="container">
                 <div class="row">
                     <div class="col text-center">
-                        <img class="img-fluid" src="images/data_transmission_table.png" alt="Mobile3DScanner Teaser" width="100%" />
+                        <img class="img-fluid" src="images/data_transmission_table.png" alt="Mobile3DScanner Teaser" width="100%">
                     </div>
                 </div>
             </div>
         </section>
     
     
-        <br />
-        <br />
+        <br>
+        <br>
     
         <!-- Traditional Offline Scanning vs. Our Interactive Scanning -->
-        <br />
+        <br>
         <section>
             <div class="container">
                 <div class="row">
                     <div class="col-12 text-center">
                         <h3>Traditional Offline Scanning vs. Our Interactive Scanning</h3>
-                        <hr style="margin-top:0px" />
-                        <br />
+                        <hr style="margin-top:0px">
+                        <br>
                     </div>
                 </div>
             </div> 
         </section>
-        <br />
+        <br>
         <section>
             <div class="container">
                 <div class="row">
@@ -281,13 +229,13 @@
                 </div>
                 <div class="row">
                     <div class="col text-center">
-                        <img class="img-fluid" src="images/conference_room/conferenceRoom_target.jpg" width="100%" />
+                        <img class="img-fluid" src="images/conference_room/conferenceRoom_target.jpg" width="100%">
                     </div>
                     <div class="col text-center">
-                        <img class="img-fluid" src="images/conference_room/p1_offline.PNG" width="100%" />
+                        <img class="img-fluid" src="images/conference_room/p1_offline.PNG" width="100%">
                     </div>
                     <div class="col text-center">
-                        <img class="img-fluid" src="images/conference_room/p2_offline.PNG" width="100%" />
+                        <img class="img-fluid" src="images/conference_room/p2_offline.PNG" width="100%">
                     </div>
                 </div>
                 <div class="row">
@@ -302,17 +250,17 @@
                     </div>
                 </div>
     
-                <br />
+                <br>
     
                 <div class="row">
                     <div class="col text-center">
-                        <img class="img-fluid" src="images/conference_room/expert.PNG" width="100%" />
+                        <img class="img-fluid" src="images/conference_room/expert.PNG" width="100%">
                     </div>
                     <div class="col text-center">
-                        <img class="img-fluid" src="images/conference_room/p1_YOSO.PNG" width="100%" />
+                        <img class="img-fluid" src="images/conference_room/p1_YOSO.PNG" width="100%">
                     </div>
                     <div class="col text-center">
-                        <img class="img-fluid" src="images/conference_room/p2_YOSO.PNG" width="100%" />
+                        <img class="img-fluid" src="images/conference_room/p2_YOSO.PNG" width="100%">
                     </div>
                 </div>
                 <div class="row">
@@ -327,8 +275,8 @@
                     </div>
                 </div>
     
-                <br />
-                <br />
+                <br>
+                <br>
     
                 <div class="row">
                     <div class="col-12 text-center">
@@ -337,13 +285,13 @@
                 </div>
                 <div class="row">
                     <div class="col text-center">
-                        <img class="img-fluid" src="images/cafe/cafe_target.jpg" width="100%" />
+                        <img class="img-fluid" src="images/cafe/cafe_target.jpg" width="100%">
                     </div>
                     <div class="col text-center">
-                        <img class="img-fluid" src="images/cafe/p1_offline.PNG" width="100%" />
+                        <img class="img-fluid" src="images/cafe/p1_offline.PNG" width="100%">
                     </div>
                     <div class="col text-center">
-                        <img class="img-fluid" src="images/cafe/p2_offline.PNG" width="100%" />
+                        <img class="img-fluid" src="images/cafe/p2_offline.PNG" width="100%">
                     </div>
                 </div>
                 <div class="row">
@@ -358,17 +306,17 @@
                     </div>
                 </div>
     
-                <br />
+                <br>
     
                 <div class="row">
                     <div class="col text-center">
-                        <img class="img-fluid" src="images/cafe/expert.PNG" width="100%" />
+                        <img class="img-fluid" src="images/cafe/expert.PNG" width="100%">
                     </div>
                     <div class="col text-center">
-                        <img class="img-fluid" src="images/cafe/p1_YOSO.PNG" width="100%" />
+                        <img class="img-fluid" src="images/cafe/p1_YOSO.PNG" width="100%">
                     </div>
                     <div class="col text-center">
-                        <img class="img-fluid" src="images/cafe/p2_YOSO.PNG" width="100%" />
+                        <img class="img-fluid" src="images/cafe/p2_YOSO.PNG" width="100%">
                     </div>
                 </div>
                 <div class="row">
@@ -387,15 +335,4 @@
     
     </body>
 
-</html>
-
-
-      <footer class="site-footer">
-        
-          <span class="site-footer-owner"><a href="https://github.com/growthin2023/VIDAR.github.io">VIDAR.github.io</a> is maintained by <a href="https://github.com/growthin2023">growthin2023</a>.</span>
-        
-        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
-      </footer>
-    </main>
-  </body>
 </html>
