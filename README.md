@@ -187,7 +187,8 @@
                 <div class="row">
                     <div class="col-12 text-center">
                         <h3>Video Show</h3>
-                        <hr style="margin-top:0px">
+                        <!-- <hr style="margin-top:0px"> -->
+                        <hr class="style14">
                         <br>
                     </div>
                 </div>
@@ -217,8 +218,8 @@
     			<div class="row">
     				<div class="col-12 text-center">
     					<h3>Model Structure</h3>
-    					<hr style="margin-top:0px">
-                        <hr class="style10">
+    					<!-- <hr style="margin-top:0px"> -->
+                        <hr class="style14">
     					<br>
     				</div>
     			</div>
@@ -229,7 +230,7 @@
     			<div class="row">
                    <div class="col-12 text-left">
                         <h3>KPD:</h3>
-                        <hr class="style14">
+                        <hr class="style10">
                         <br>
                     </div>
     				<div class="col text-center">
@@ -241,9 +242,9 @@
     			<div class="row">
                    <div class="col-12 text-left">
                         <h3>PMG:</h3>
+                        <hr class="style10">
                         <br>
                     </div>
-                    <hr class="style13">
     				<div class="col text-center">
     					<h3>PMG:</h3>
     					<img class="img-fluid" src="data/model/PMG.png" alt="PMG Network structure" width="100%">
@@ -253,9 +254,9 @@
     			<div class="row">
                     <div class="col-12 text-left">
                         <h3>AFG:</h3>
+                        <hr class="style10">
                         <br>
                     </div>
-                    <hr class="style13">
     				<div class="col text-center">
     					<h3>AFG:</h3>
     					<img class="img-fluid" src="data/model/AFG.png" alt="AFG Network structure" width="100%">
@@ -274,8 +275,8 @@
                 <div class="row">
                     <div class="col-12 text-center">
                         <h3>Phone Demo</h3>
-                        <hr style="margin-top:0px">
-                        <hr class="style18">
+                        <!-- <hr style="margin-top:0px"> -->
+                        <hr class="style13">
                         <br>
                     </div>
                 </div>
