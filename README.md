@@ -132,6 +132,10 @@
     			<div class="row">
     				<div class="col text-center">
     					<h3>KPD:</h3>
+                        <div class="col-12 text-left">
+        					<h3>KPD:</h3>
+        					<br>
+        				</div>
     					<img class="img-fluid" src="data/model/KPD.png" alt="KPD Network structure" width="100%">
     				</div>
     			</div>
@@ -139,14 +143,21 @@
     			<div class="row">
     				<div class="col text-center">
     					<h3>PMG:</h3>
+                        <div class="col-12 text-left">
+        					<h3>PMG:</h3>
+        					<br>
+        				</div>
     					<img class="img-fluid" src="data/model/PMG.png" alt="PMG Network structure" width="100%">
     				</div>
     			</div>
-    
-    
+        
     			<div class="row">
     				<div class="col text-center">
     					<h3>AFG:</h3>
+                        <div class="col-12 text-left">
+        					<h3>AFG:</h3>
+        					<br>
+        				</div>
     					<img class="img-fluid" src="data/model/AFG.png" alt="AFG Network structure" width="100%">
     				</div>
     			</div>
