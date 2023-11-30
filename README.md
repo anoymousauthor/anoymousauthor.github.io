@@ -78,7 +78,103 @@
                     display: none;
                     font-size: 0.9rem;
             }
-    
+            hr.style11 {
+            	height: 6px;
+            	background: url(http://ibrahimjabbari.com/images/hr-11.png) repeat-x 0 0;
+                border: 0;
+            }
+             
+             
+            hr.style12 {
+            	height: 6px;
+            	background: url(http://ibrahimjabbari.com/images/hr-12.png) repeat-x 0 0;
+                border: 0;
+            }
+             
+            hr.style13 {
+            	height: 10px;
+            	border: 0;
+            	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+            }
+             
+             
+            hr.style14 { 
+              border: 0; 
+              height: 1px; 
+              background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+              background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+              background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+              background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0); 
+            }
+             
+             
+            hr.style15 {
+            	border-top: 4px double #8c8b8b;
+            	text-align: center;
+            }
+            hr.style15:after {
+            	content: '\002665';
+            	display: inline-block;
+            	position: relative;
+            	top: -15px;
+            	padding: 0 10px;
+            	background: #f0f0f0;
+            	color: #8c8b8b;
+            	font-size: 18px;
+            }
+             
+            hr.style16 { 
+              border-top: 1px dashed #8c8b8b; 
+            } 
+            hr.style16:after { 
+              content: '\002702'; 
+              display: inline-block; 
+              position: relative; 
+              top: -12px; 
+              left: 40px; 
+              padding: 0 3px; 
+              background: #f0f0f0; 
+              color: #8c8b8b; 
+              font-size: 18px; 
+            }
+             
+             
+            hr.style17 {
+            	border-top: 1px solid #8c8b8b;
+            	text-align: center;
+            }
+            hr.style17:after {
+            	content: '§';
+            	display: inline-block;
+            	position: relative;
+            	top: -14px;
+            	padding: 0 10px;
+            	background: #f0f0f0;
+            	color: #8c8b8b;
+            	font-size: 18px;
+            	-webkit-transform: rotate(60deg);
+            	-moz-transform: rotate(60deg);
+            	transform: rotate(60deg);
+            }
+             
+             
+            hr.style18 { 
+              height: 30px; 
+              border-style: solid; 
+              border-color: #8c8b8b; 
+              border-width: 1px 0 0 0; 
+              border-radius: 20px; 
+            } 
+            hr.style18:before { 
+              display: block; 
+              content: ""; 
+              height: 30px; 
+              margin-top: -31px; 
+              border-style: solid; 
+              border-color: #8c8b8b; 
+              border-width: 0 0 1px 0; 
+              border-radius: 20px; }
+
         </style>
     </head>
     
@@ -122,6 +218,7 @@
     				<div class="col-12 text-center">
     					<h3>Model Structure</h3>
     					<hr style="margin-top:0px">
+                        <hr class="style10">
     					<br>
     				</div>
     			</div>
@@ -134,6 +231,7 @@
                         <h3>KPD:</h3>
                         <br>
                     </div>
+                    <hr class="style13">
     				<div class="col text-center">
     					<h3>KPD:</h3>
     					<img class="img-fluid" src="data/model/KPD.png" alt="KPD Network structure" width="100%">
@@ -145,6 +243,7 @@
                         <h3>PMG:</h3>
                         <br>
                     </div>
+                    <hr class="style13">
     				<div class="col text-center">
     					<h3>PMG:</h3>
     					<img class="img-fluid" src="data/model/PMG.png" alt="PMG Network structure" width="100%">
@@ -156,6 +255,7 @@
                         <h3>AFG:</h3>
                         <br>
                     </div>
+                    <hr class="style13">
     				<div class="col text-center">
     					<h3>AFG:</h3>
     					<img class="img-fluid" src="data/model/AFG.png" alt="AFG Network structure" width="100%">
@@ -175,6 +275,7 @@
                     <div class="col-12 text-center">
                         <h3>Phone Demo</h3>
                         <hr style="margin-top:0px">
+                        <hr class="style18">
                         <br>
                     </div>
                 </div>
