@@ -84,13 +84,13 @@
     
     
     <body>
-        <!-- Real-time Interactive Reconstruction Demo -->
+        <!-- Video Show -->
         <br>
         <section>
             <div class="container">
                 <div class="row">
                     <div class="col-12 text-center">
-                        <h3>Our Interactive Reconstruction Demo</h3>
+                        <h3>Video Show</h3>
                         <hr style="margin-top:0px">
                         <br>
                     </div>
@@ -114,46 +114,44 @@
         <br>
         <br>
 
-        <!-- Real-time Interactive Reconstruction Demo -->
+        <!-- Model Structure -->
         <br>
         <section>
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 text-center">
-                        <h3>Our Interactive Reconstruction Demo</h3>
-                        <hr style="margin-top:0px">
-                        <br>
-                    </div>
-                </div>
-            </div> 
-        </section>
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="col text-center">
-                        <img class="img-fluid" src="data/model/KPD.png" alt="Mobile3DScanner Teaser" width="100%">
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="col text-center">
-                        <img class="img-fluid" src="data/model/PMG.png" alt="Mobile3DScanner Teaser" width="100%">
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="col text-center">
-                        <img class="img-fluid" src="data/model/AFG.png" alt="Mobile3DScanner Teaser" width="100%">
-                    </div>
-                </div>
-            </div>
-        </section>
+    		<div class="container">
+    			<div class="row">
+    				<div class="col-12 text-center">
+    					<h3>Model Structure</h3>
+    					<hr style="margin-top:0px">
+    					<br>
+    				</div>
+    			</div>
+    		</div> 
+    	</section>
+    	<section>
+    		<div class="container">
+    			<div class="row">
+    				<div class="col text-center">
+    					<h3>KPD:</h3>
+    					<img class="img-fluid" src="data/model/KPD.png" alt="KPD Network structure" width="100%">
+    				</div>
+    			</div>
+    
+    			<div class="row">
+    				<div class="col text-center">
+    					<h3>PMG:</h3>
+    					<img class="img-fluid" src="data/model/PMG.png" alt="PMG Network structure" width="100%">
+    				</div>
+    			</div>
+    
+    
+    			<div class="row">
+    				<div class="col text-center">
+    					<h3>AFG:</h3>
+    					<img class="img-fluid" src="data/model/AFG.png" alt="AFG Network structure" width="100%">
+    				</div>
+    			</div>
+    		</div>
+    	</section>
     
         <br>
         <br>
