@@ -1,6 +1,8 @@
 # SlimFit-Gens: Extremely-low Bandwidth One-on-one Video Calls on Mobile Devices
 <html>
     <head>
+        <link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
         <style>
             element.style {
                 color: #8899a5;
@@ -122,7 +124,6 @@
             	color: #8c8b8b;
             	font-size: 18px;
             }
-             
             hr.style16 { 
               border-top: 1px dashed #8c8b8b; 
             } 
@@ -137,8 +138,6 @@
               color: #8c8b8b; 
               font-size: 18px; 
             }
-             
-             
             hr.style17 {
             	border-top: 1px solid #8c8b8b;
             	text-align: center;
@@ -156,8 +155,6 @@
             	-moz-transform: rotate(60deg);
             	transform: rotate(60deg);
             }
-             
-             
             hr.style18 { 
               height: 30px; 
               border-style: solid; 
@@ -173,11 +170,61 @@
               border-style: solid; 
               border-color: #8c8b8b; 
               border-width: 0 0 1px 0; 
-              border-radius: 20px; }
-
+              border-radius: 20px; 
+            }
+            body {
+                background: #fdfcf9 no-repeat fixed top left;
+                font-family:'Open Sans', sans-serif;
+              }
         </style>
     </head>
-    
+
+      <!-- cover -->
+  <section>
+    <div class="jumbotron text-center mt-0">
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <h2 style="font-size:30px;">NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video</h2>
+            <h4 style="color:#6e6e6e;"> CVPR 2021</h4>
+            <h5 style="color:#6e6e6e;"> (Oral Presentation and Best Paper Candidate)</h5>
+            <hr>
+            <h6> <a href="https://jiamingsun.ml/" target="_blank">Jiaming Sun</a><sup>1,2*</sup>, 
+                 <a href="https://ymingxie.github.io/" target="_blank">Yiming Xie</a><sup>1*</sup>, 
+                 <!-- <a href="https://ymingxie.github.io/" target="_blank">Yiming Xie</a><sup>1,2*</sup>,  -->
+                <a href="https://ootts.github.io/" target="_blank">Linghao Chen</a><sup>1</sup>,
+                <a href="http://xzhou.me" target="_blank">Xiaowei Zhou</a><sup>1</sup>,
+                <a href="http://www.cad.zju.edu.cn/bao/" target="_blank">Hujun Bao</a><sup>1</sup></h6>
+            <p> <sup>1</sup>State Key Lab of CAD & CG, Zhejiang University &nbsp;&nbsp; 
+                <sup>2</sup>SenseTime Research
+                <br>
+                <sup>*</sup> denotes equal contribution
+            </p>
+            <!-- <p> <a class="btn btn-secondary btn-lg" href="" role="button">Paper</a> 
+                <a class="btn btn-secondary btn-lg" href="" role="button">Code</a> 
+                <a class="btn btn-secondary btn-lg" href="" role="button">Data</a> </p> -->
+
+            <div class="row justify-content-center">
+              <div class="column">
+                  <p class="mb-5"><a class="btn btn-large btn-light" href="https://arxiv.org/pdf/2104.00681.pdf" role="button"  target="_blank">
+                    <i class="fa fa-file"></i> Paper</a> </p>
+              </div>
+              <div class="column">
+                  <p class="mb-5"><a class="btn btn-large btn-light" id="code_soon" href="https://github.com/zju3dv/NeuralRecon" role="button" 
+                    target="_blank" disabled=1>
+                <i class="fa fa-github-alt"></i> Code </a> </p>
+              </div>
+              <div class="column">
+                  <p class="mb-5"><a class="btn btn-large btn-light" href="files/NeuralRecon-suppmat.pdf" role="button"  target="_blank">
+                    <i class="fa fa-file"></i> Supplementary</a> </p>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
     
     <body>
         <!-- Video Show -->
