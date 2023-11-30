@@ -196,7 +196,7 @@
                 <div class="row">
                     <div class="col text-center">
                         <video width="100%" playsinline controls autoplay loop="loop" preload muted>
-                            <source src="https://github.com/anoymousauthor/anoymousauthor.github.io/releases/download/v0.0/demo.mp4" type="video/mp4">
+                            <source src="https://github.com/anoymousauthor/anoymousauthor.github.io/releases/download/v0.0/phone.demo.mp4" type="video/mp4">
                         </video>
                     </div>
                 </div>
