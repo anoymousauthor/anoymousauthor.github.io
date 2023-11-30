@@ -204,6 +204,7 @@
                         <!-- <img class="img-fluid" src="https://github.com/anoymousauthor/anoymousauthor.github.io/releases/download/v0.0/video.png" alt="Mobile3DScanner Teaser" width="100%"> -->
                         <img class="img-fluid" src="data/video/video.png" alt="Mobile3DScanner Teaser" width="100%">
                     </div>
+                    <hr class="style13">
                 </div>
             </div>
         </section>
@@ -234,7 +235,6 @@
                         <br>
                     </div>
     				<div class="col text-center">
-    					<h3>KPD:</h3>
     					<img class="img-fluid" src="data/model/KPD.png" alt="KPD Network structure" width="100%">
     				</div>
     			</div>
@@ -246,21 +246,21 @@
                         <br>
                     </div>
     				<div class="col text-center">
-    					<h3>PMG:</h3>
     					<img class="img-fluid" src="data/model/PMG.png" alt="PMG Network structure" width="100%">
     				</div>
     			</div>
         
     			<div class="row">
                     <div class="col-12 text-left">
+                        <br>
                         <h3>AFG:</h3>
                         <hr class="style10">
                         <br>
                     </div>
     				<div class="col text-center">
-    					<h3>AFG:</h3>
     					<img class="img-fluid" src="data/model/AFG.png" alt="AFG Network structure" width="100%">
     				</div>
+                    <hr class="style13">
     			</div>
     		</div>
     	</section>
@@ -276,7 +276,7 @@
                     <div class="col-12 text-center">
                         <h3>Phone Demo</h3>
                         <!-- <hr style="margin-top:0px"> -->
-                        <hr class="style13">
+                        <hr class="style10">
                         <br>
                     </div>
                 </div>
@@ -286,236 +286,17 @@
             <div class="container">
                 <div class="row">
                     <div class="col text-center">
-                        <video width="100%" playsinline controls autoplay loop="loop" preload muted>
+                        <video hight="50%" width="100%" playsinline controls autoplay loop="loop" preload muted>
                             <source src="https://github.com/anoymousauthor/anoymousauthor.github.io/releases/download/v0.0/phone.demo.mp4" type="video/mp4">
                         </video>
                     </div>
+                    <hr class="style13">
                 </div>
             </div>
         </section>
     
         <br>
         <br>
-    
-        <!-- Comparison with Baseline -->
-        <br>
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 text-center">
-                        <h3>Comparison with Baseline on Real-world Scenes</h3>
-                        <hr style="margin-top:0px">
-                        <br>
-                    </div>
-                </div>
-            </div> 
-        </section>
-        <br>
-    
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="col text-center">
-                        <video width="100%" playsinline controls autoplay loop="loop" preload muted>
-                            <source src="https://github.com/growthin2023/VIDAR.github.io/releases/download/v0.0/Bench.mp4" type="video/mp4">
-                        </video>
-                    </div>
-                    <div class="col text-center">
-                        <video width="100%" playsinline controls autoplay loop="loop" preload muted>
-                            <source src="https://github.com/growthin2023/VIDAR.github.io/releases/download/v0.0/Sofa.mp4" type="video/mp4">
-                        </video>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col text-center">
-                        <p class="text-justify; text-center"> Bench </p>
-                    </div>
-                    <div class="col text-center">
-                        <p class="text-justify; text-center"> Sofa </p>
-                    </div>
-                </div>
-    
-                <br>
-    
-                <div class="row">
-                    <div class="col text-center">
-                        <video width="100%" playsinline controls autoplay loop="loop" preload muted>
-                            <source src="https://github.com/growthin2023/VIDAR.github.io/releases/download/v0.0/Corridor.mp4" type="video/mp4">
-                        </video>
-                    </div>
-                    <div class="col text-center">
-                        <video width="100%" playsinline controls autoplay loop="loop" preload muted>
-                            <source src="https://github.com/growthin2023/VIDAR.github.io/releases/download/v0.0/Desk.mp4" type="video/mp4">
-                        </video>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col text-center">
-                        <p class="text-justify; text-center"> Corridor </p>
-                    </div>
-                    <div class="col text-center">
-                        <p class="text-justify; text-center"> Desk </p>
-                    </div>
-                </div>
-            </div>
-        </section>
-    
-        <br>
-        <br>
-    
-        <!-- Data Transmission Analysis -->
-        <br>
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 text-center">
-                        <h3>Data Transmission Analysis</h3>
-                        <hr style="margin-top:0px">
-                        <br>
-                    </div>
-                </div>
-            </div> 
-        </section>
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="col text-center">
-                        <img class="img-fluid" src="images/data_transmission_table.png" alt="Mobile3DScanner Teaser" width="100%">
-                    </div>
-                </div>
-            </div>
-        </section>
-    
-    
-        <br>
-        <br>
-    
-        <!-- Traditional Offline Scanning vs. Our Interactive Scanning -->
-        <br>
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 text-center">
-                        <h3>Traditional Offline Scanning vs. Our Interactive Scanning</h3>
-                        <hr style="margin-top:0px">
-                        <br>
-                    </div>
-                </div>
-            </div> 
-        </section>
-        <br>
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 text-center">
-                        <h3>Seminar Room</h3>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col text-center">
-                        <img class="img-fluid" src="images/conference_room/conferenceRoom_target.jpg" width="100%">
-                    </div>
-                    <div class="col text-center">
-                        <img class="img-fluid" src="images/conference_room/p1_offline.PNG" width="100%">
-                    </div>
-                    <div class="col text-center">
-                        <img class="img-fluid" src="images/conference_room/p2_offline.PNG" width="100%">
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col text-center">
-                        <p class="text-justify; text-center"> Target Scene </p>
-                    </div>
-                    <div class="col text-center">
-                        <p class="text-justify; text-center"> Offline mesh by p1 </p>
-                    </div>
-                    <div class="col text-center">
-                        <p class="text-justify; text-center"> Offline mesh by p2 </p>
-                    </div>
-                </div>
-    
-                <br>
-    
-                <div class="row">
-                    <div class="col text-center">
-                        <img class="img-fluid" src="images/conference_room/expert.PNG" width="100%">
-                    </div>
-                    <div class="col text-center">
-                        <img class="img-fluid" src="images/conference_room/p1_YOSO.PNG" width="100%">
-                    </div>
-                    <div class="col text-center">
-                        <img class="img-fluid" src="images/conference_room/p2_YOSO.PNG" width="100%">
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col text-center">
-                        <p class="text-justify; text-center"> GT mesh by expert </p>
-                    </div>
-                    <div class="col text-center">
-                        <p class="text-justify; text-center"> Our mesh by p1 </p>
-                    </div>
-                    <div class="col text-center">
-                        <p class="text-justify; text-center"> Our mesh by p2 </p>
-                    </div>
-                </div>
-    
-                <br>
-                <br>
-    
-                <div class="row">
-                    <div class="col-12 text-center">
-                        <h3>Cafe</h3>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col text-center">
-                        <img class="img-fluid" src="images/cafe/cafe_target.jpg" width="100%">
-                    </div>
-                    <div class="col text-center">
-                        <img class="img-fluid" src="images/cafe/p1_offline.PNG" width="100%">
-                    </div>
-                    <div class="col text-center">
-                        <img class="img-fluid" src="images/cafe/p2_offline.PNG" width="100%">
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col text-center">
-                        <p class="text-justify; text-center"> Target Scene </p>
-                    </div>
-                    <div class="col text-center">
-                        <p class="text-justify; text-center"> Offline mesh by p1 </p>
-                    </div>
-                    <div class="col text-center">
-                        <p class="text-justify; text-center"> Offline mesh by p2 </p>
-                    </div>
-                </div>
-    
-                <br>
-    
-                <div class="row">
-                    <div class="col text-center">
-                        <img class="img-fluid" src="images/cafe/expert.PNG" width="100%">
-                    </div>
-                    <div class="col text-center">
-                        <img class="img-fluid" src="images/cafe/p1_YOSO.PNG" width="100%">
-                    </div>
-                    <div class="col text-center">
-                        <img class="img-fluid" src="images/cafe/p2_YOSO.PNG" width="100%">
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col text-center">
-                        <p class="text-justify; text-center"> GT mesh by expert </p>
-                    </div>
-                    <div class="col text-center">
-                        <p class="text-justify; text-center"> Our mesh by p1 </p>
-                    </div>
-                    <div class="col text-center">
-                        <p class="text-justify; text-center"> Our mesh by p2 </p>
-                    </div>
-                </div>
-            </div>
-        </section>
     
     </body>
 
