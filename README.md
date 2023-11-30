@@ -104,7 +104,7 @@
                         <!-- <video width="100%" playsinline controls autoplay loop="loop" preload muted> -->
                             <!-- <source src="https://github.com/growthin2023/VIDAR.github.io/releases/download/v0.0/third_view.mp4" type="video/mp4"> -->
                         <!-- </video> -->
-                        <img class="img-fluid" src="https://github.com/anoymousauthor/anoymousauthor.github.io/tree/main/data/video/video.png" alt="Mobile3DScanner Teaser" width="100%">
+                        <img class="img-fluid" src="https://github.com/anoymousauthor/anoymousauthor.github.io/blob/main/data/video/video.png" alt="Mobile3DScanner Teaser" width="100%">
                     </div>
                 </div>
             </div>
@@ -130,7 +130,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col text-center">
-                        <img class="img-fluid" src="https://github.com/anoymousauthor/anoymousauthor.github.io/tree/main/data/model/KPD.png" alt="Mobile3DScanner Teaser" width="100%">
+                        <img class="img-fluid" src="https://github.com/anoymousauthor/anoymousauthor.github.io/blob/main/data/model/KPD.png" alt="Mobile3DScanner Teaser" width="100%">
                     </div>
                 </div>
             </div>
@@ -139,7 +139,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col text-center">
-                        <img class="img-fluid" src="https://github.com/anoymousauthor/anoymousauthor.github.io/tree/main/data/model/PMG.png" alt="Mobile3DScanner Teaser" width="100%">
+                        <img class="img-fluid" src="https://github.com/anoymousauthor/anoymousauthor.github.io/blob/main/data/model/PMG.png" alt="Mobile3DScanner Teaser" width="100%">
                     </div>
                 </div>
             </div>
@@ -148,7 +148,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col text-center">
-                        <img class="img-fluid" src="https://github.com/anoymousauthor/anoymousauthor.github.io/tree/main/data/model/AFG.png" alt="Mobile3DScanner Teaser" width="100%">
+                        <img class="img-fluid" src="https://github.com/anoymousauthor/anoymousauthor.github.io/blob/main/data/model/AFG.png" alt="Mobile3DScanner Teaser" width="100%">
                     </div>
                 </div>
             </div>
@@ -175,7 +175,7 @@
                 <div class="row">
                     <div class="col text-center">
                         <video width="100%" playsinline controls autoplay loop="loop" preload muted>
-                            <source src="https://github.com/anoymousauthor/anoymousauthor.github.io/tree/main/data/demo/demo.mp4" type="video/mp4">
+                            <source src="https://github.com/anoymousauthor/anoymousauthor.github.io/blob/main/data/demo/demo.mp4" type="video/mp4">
                         </video>
                     </div>
                 </div>
