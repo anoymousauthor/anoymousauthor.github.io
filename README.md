@@ -1,5 +1,5 @@
 # SlimFit-Gens: Extremely-low Bandwidth One-on-one Video Calls on Mobile Devices
-                                                                                                                                  <html>
+<html>
     <head>
         <link href="css/bootstrap-4.4.1.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
@@ -79,62 +79,6 @@
                 .site-footer {
                     display: none;
                     font-size: 0.9rem;
-            }
-
-            hr.style1{
-                border-top: 1px solid #8c8b8b;
-            }
-            
-            
-            hr.style2 {
-                border-top: 3px double #8c8b8b;
-            }
-            
-            hr.style3 {
-                border-top: 1px dashed #8c8b8b;
-            }
-            
-            hr.style4 {
-                border-top: 1px dotted #8c8b8b;
-            }
-            
-            hr.style5 {
-                background-color: #fff;
-                border-top: 2px dashed #8c8b8b;
-            }
-            
-            
-            hr.style6 {
-                background-color: #fff;
-                border-top: 2px dotted #8c8b8b;
-            }
-            
-            hr.style7 {
-                border-top: 1px solid #8c8b8b;
-                border-bottom: 1px solid #fff;
-            }
-            
-            
-            hr.style8 {
-                border-top: 1px solid #8c8b8b;
-                border-bottom: 1px solid #fff;
-            }
-            hr.style8:after {
-                content: '';
-                display: block;
-                margin-top: 2px;
-                border-top: 1px solid #8c8b8b;
-                border-bottom: 1px solid #fff;
-            }
-            
-            hr.style9 {
-                border-top: 1px dashed #8c8b8b;
-                border-bottom: 1px dashed #fff;
-            }
-            
-            hr.style10 {
-                border-top: 1px dotted #8c8b8b;
-                border-bottom: 1px dotted #fff;
             }
             hr.style11 {
             	height: 6px;
@@ -233,6 +177,7 @@
                 font-family:'Open Sans', sans-serif;
               }
             .jumbotron {
+              /* padding: 1rem 1rem; */
               margin-bottom: 1rem;
               background-color: #ebf0f1; /*#e9ecef;*/ 
               border-radius: 0.3rem;
@@ -249,48 +194,6 @@
               padding-left: 0;
               border-radius: 0;
             }
-            .steps {
-                --normal-color: #6e6e6e;
-                --active-color: #6c6c91;
-                display: flex;
-                justify-content: space-between;
-                padding: 0;
-                margin: 0;
-                counter-reset: order;
-                }
-            .steps > li {
-            flex: auto;
-            display: inline-flex;
-            align-items: center;
-            counter-increment: order;
-            color: var(--active-color);
-            }
-            .steps > li:last-child {flex: none;}
-            .steps > li::before {
-            content: counter(order);
-            flex-shrink: 0;
-            width: 1.4em;
-            line-height: 1.4em;
-            margin-right: .5em;
-            text-align: center;
-            border-radius: 50%;
-            border: 1px solid;
-            }
-            .steps > li:not(:last-child)::after {
-            content: '';
-            flex: 1;
-            margin: 0 1em;
-            border-bottom: 1px solid;
-            opacity: .6;
-            }
-            .steps > .active {color: var(--active-color);}
-            .steps > .active::before {
-            color: #fff;
-            background: var(--active-color);
-            border-color: var(--active-color);
-            }
-            .steps > .active::after,
-            .steps > .active ~ li {color: var(--normal-color);}
         </style>
     </head>
 
@@ -300,9 +203,7 @@
       <div class="container">
         <div class="row">
           <div class="col">
-            <h1 style="font-size:40px;">SlimFit-Gens: Extremely-low Bandwidth One-on-one Video Calls on Mobile Devices</h1>    
-            <hr class="style14">        
-            <h2 style="color:#6e6e6e; font-size:25px;"> Anoymous Authors </h2>            
+            <h2 style="font-size:30px;">SlimFit-Gens: Extremely-low Bandwidth One-on-one Video Calls on Mobile Devices</h2>            
           </div>
         </div>
       </div>
@@ -316,27 +217,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 text-center">
-                        <h2 style="font-size:30px;"> Qualitative comparisons on the Voxceleb dataset </h2>
-                        <hr style="margin-top:0px">
-                        
-                        <hr class="style1">
-                        <hr class="style2">
-                        <hr class="style3">
-                        <hr class="style4">
-                        <hr class="style5">
-                        <hr class="style6">
-                        <hr class="style7">
-                        <hr class="style8">
-                        <hr class="style9">
-                        <hr class="style10">
-                        <hr class="style11">
-                        <hr class="style12">
-                        <hr class="style13">
+                        <h3>Video Show</h3>
+                        <!-- <hr style="margin-top:0px"> -->
                         <hr class="style14">
-                        <hr class="style15">
-                        <hr class="style16">
-                        <hr class="style17">
-                        <hr class="style18">
                         <br>
                     </div>
                 </div>
@@ -350,8 +233,9 @@
                             <!-- <source src="https://github.com/growthin2023/VIDAR.github.io/releases/download/v0.0/third_view.mp4" type="video/mp4"> -->
                         <!-- </video> -->
                         <!-- <img class="img-fluid" src="https://github.com/anoymousauthor/anoymousauthor.github.io/releases/download/v0.0/video.png" alt="Mobile3DScanner Teaser" width="100%"> -->
-                        <img class="img-fluid" src="data/video/video.png" alt="Mobile3DScanner Teaser" width="80%">
+                        <img class="img-fluid" src="data/video/video.png" alt="Mobile3DScanner Teaser" width="100%">
                     </div>
+                    <hr class="style13">
                 </div>
             </div>
         </section>
@@ -365,8 +249,9 @@
     		<div class="container">
     			<div class="row">
     				<div class="col-12 text-center">
-    					<h3 style="font-size:30px;">Model Structure</h3>
-    					<hr style="margin-top:0px">
+    					<h3>Model Structure</h3>
+    					<!-- <hr style="margin-top:0px"> -->
+                        <hr class="style14">
     					<br>
     				</div>
     			</div>
@@ -375,13 +260,9 @@
     	<section>
     		<div class="container">
     			<div class="row">
-                   <div class="col-12 text-center">
-                        <h3 style="font-size:25px; color:#6e6e6e;">KPD Network Structure:</h3>
-                        <ol class="steps" width="50%" style="font-size:20px;">
-                            <li class="active">KPD</li>
-                            <li>PMG</li>
-                            <li>AFG</li>
-                        </ol>
+                   <div class="col-12 text-left">
+                        <h3>KPD:</h3>
+                        <hr class="style10">
                         <br>
                     </div>
     				<div class="col text-center">
@@ -390,14 +271,10 @@
     			</div>
     
     			<div class="row">
-                   <div class="col-12 text-center">
+                   <div class="col-12 text-left">
                         <br>
-                        <h3 style="font-size:25px; color:#6e6e6e;">PMG Network Structure:</h3>
-                        <ol class="steps" width="50%" style="font-size:20px;">
-                            <li class="done">KPD</li>
-                            <li class="active">PMG</li>
-                            <li>AFG</li>
-                        </ol>
+                        <h3>PMG:</h3>
+                        <hr class="style10">
                         <br>
                     </div>
     				<div class="col text-center">
@@ -406,14 +283,10 @@
     			</div>
         
     			<div class="row">
-                    <div class="col-12 text-center">
+                    <div class="col-12 text-left">
                         <br>
-                        <h3 style="font-size:25px; color:#6e6e6e;">AFG Network Structure:</h3>
-                        <ol class="steps" width="50%" style="font-size:20px;">
-                            <li class="done">KPD</li>
-                            <li class="done">PMG</li>
-                            <li class="active">AFG</li>
-                        </ol>
+                        <h3>AFG:</h3>
+                        <hr class="style10">
                         <br>
                     </div>
     				<div class="col text-center">
@@ -434,9 +307,10 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 text-center">
-                        <h3 style="font-size:30px;">Phone Demo</h3>
+                        <h3>Phone Demo</h3>
                         <!-- <hr style="margin-top:0px"> -->
-                        <hr class="style18">
+                        <hr class="style10">
+                        <br>
                     </div>
                 </div>
             </div> 
@@ -445,14 +319,18 @@
             <div class="container">
                 <div class="row">
                     <div class="col text-center">
-                        <video hight="50%" width="40%" playsinline controls autoplay loop="loop" preload muted>
-                            <source src="https://github.com/anoymousauthor/anoymousauthor.github.io/releases/download/v0.0/phone.demo.4.mp4" type="video/mp4">
+                        <video hight="50%" width="35%" playsinline controls autoplay loop="loop" preload muted>
+                            <source src="https://github.com/anoymousauthor/anoymousauthor.github.io/releases/download/v0.0/phone.demo.mp4" type="video/mp4">
                         </video>
                     </div>
                     <br>
+                    <hr class="style13">
                 </div>
             </div>
         </section>
+    
+        <br>
+        <br>
     
     </body>
 
