@@ -1,5 +1,5 @@
 # SlimFit-Gens: Extremely-low Bandwidth One-on-one Video Calls on Mobile Devices
-                                                                                                                                    <html>
+                                                                                                                                  <html>
     <head>
         <link href="css/bootstrap-4.4.1.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
@@ -233,7 +233,6 @@
                 font-family:'Open Sans', sans-serif;
               }
             .jumbotron {
-              /* padding: 1rem 1rem; */
               margin-bottom: 1rem;
               background-color: #ebf0f1; /*#e9ecef;*/ 
               border-radius: 0.3rem;
@@ -251,10 +250,7 @@
               border-radius: 0;
             }
             .steps {
-                /* --normal-color: #666; */
                 --normal-color: #6e6e6e;
-                /* --active-color: #06e; */
-                /* --active-color: #6e6e6e; */
                 --active-color: #6c6c91;
                 display: flex;
                 justify-content: space-between;
@@ -262,7 +258,6 @@
                 margin: 0;
                 counter-reset: order;
                 }
-            /* 步骤项 */
             .steps > li {
             flex: auto;
             display: inline-flex;
@@ -271,7 +266,6 @@
             color: var(--active-color);
             }
             .steps > li:last-child {flex: none;}
-            /* 步骤编号（带圈数字） */
             .steps > li::before {
             content: counter(order);
             flex-shrink: 0;
@@ -282,7 +276,6 @@
             border-radius: 50%;
             border: 1px solid;
             }
-            /* 步骤项引导线 */
             .steps > li:not(:last-child)::after {
             content: '';
             flex: 1;
@@ -290,7 +283,6 @@
             border-bottom: 1px solid;
             opacity: .6;
             }
-            /* 步骤状态 */
             .steps > .active {color: var(--active-color);}
             .steps > .active::before {
             color: #fff;
