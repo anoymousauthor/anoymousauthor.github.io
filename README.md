@@ -302,21 +302,6 @@
         </style>
     </head>
 
-<!-- cover -->
-  <section>
-    <div class="jumbotron text-center mt-0">
-      <div class="container">
-        <div class="row">
-          <div class="col">
-            <h1 style="font-size:40px;">SlimFit-Gens: Extremely-low Bandwidth One-on-one Video Calls on Mobile Devices</h1>    
-            <hr class="style14">        
-            <h2 style="color:#6e6e6e; font-size:25px;"> Anoymous Authors </h2>            
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-    
     <body>
         <!-- Video Show -->
         <br>
@@ -326,25 +311,6 @@
                     <div class="col-12 text-center">
                         <h2 style="font-size:30px;"> Qualitative comparisons on the Voxceleb dataset </h2>
                         <hr style="margin-top:0px">
-                        
-                        <hr class="style1">
-                        <hr class="style2">
-                        <hr class="style3">
-                        <hr class="style4">
-                        <hr class="style5">
-                        <hr class="style6">
-                        <hr class="style7">
-                        <hr class="style8">
-                        <hr class="style9">
-                        <hr class="style10">
-                        <hr class="style11">
-                        <hr class="style12">
-                        <hr class="style13">
-                        <hr class="style14">
-                        <hr class="style15">
-                        <hr class="style16">
-                        <hr class="style17">
-                        <hr class="style18">
                         <br>
                     </div>
                 </div>
@@ -384,7 +350,7 @@
     		<div class="container">
     			<div class="row">
                    <div class="col-12 text-center">
-                        <h3 style="font-size:25px; color:#6e6e6e;">KPD Network Structure:</h3>
+                        <h3 style="font-size:25px; ">KPD Network Structure:</h3>
                         <ol class="steps" width="50%" style="font-size:20px;">
                             <li class="active">KPD</li>
                             <li>PMG</li>
@@ -400,7 +366,7 @@
     			<div class="row">
                    <div class="col-12 text-center">
                         <br>
-                        <h3 style="font-size:25px; color:#6e6e6e;">PMG Network Structure:</h3>
+                        <h3 style="font-size:25px; ">PMG Network Structure:</h3>
                         <ol class="steps" width="50%" style="font-size:20px;">
                             <li class="done">KPD</li>
                             <li class="active">PMG</li>
@@ -416,7 +382,7 @@
     			<div class="row">
                     <div class="col-12 text-center">
                         <br>
-                        <h3 style="font-size:25px; color:#6e6e6e;">AFG Network Structure:</h3>
+                        <h3 style="font-size:25px; ">AFG Network Structure:</h3>
                         <ol class="steps" width="50%" style="font-size:20px;">
                             <li class="done">KPD</li>
                             <li class="done">PMG</li>
@@ -444,7 +410,7 @@
                     <div class="col-12 text-center">
                         <h3 style="font-size:30px;">Phone Demo</h3>
                         <!-- <hr style="margin-top:0px"> -->
-                        <hr class="style18">
+                        <hr style="margin-top:0px">
                     </div>
                 </div>
             </div> 
