@@ -327,8 +327,14 @@
                         <!-- <img class="img-fluid" src="data/video/video.png" alt="model performance video" width="80%"> -->
                         <video hight="50%" width="40%" playsinline controls autoplay loop="loop" preload muted>
                             <source src="https://github.com/anoymousauthor/anoymousauthor.github.io/releases/download/v1.0/out1.mp4" type="video/mp4">
+                        </video>
+                        <video hight="50%" width="40%" playsinline controls autoplay loop="loop" preload muted>
                             <source src="https://github.com/anoymousauthor/anoymousauthor.github.io/releases/download/v1.0/out2.mp4" type="video/mp4">
+                        </video>
+                        <video hight="50%" width="40%" playsinline controls autoplay loop="loop" preload muted>
                             <source src="https://github.com/anoymousauthor/anoymousauthor.github.io/releases/download/v1.0/out3.mp4" type="video/mp4">
+                        </video>
+                        <video hight="50%" width="40%" playsinline controls autoplay loop="loop" preload muted>
                             <source src="https://github.com/anoymousauthor/anoymousauthor.github.io/releases/download/v1.0/out4.mp4" type="video/mp4">
                         </video>
                     </div>
