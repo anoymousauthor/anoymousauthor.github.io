@@ -417,35 +417,6 @@
     		</div>
     	</section>
     
-        <br>
-        <br>
-
-        <!-- Phone Demo -->
-        <br>
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 text-center">
-                        <h3 style="font-size:30px;">Phone Demo</h3>
-                        <!-- <hr style="margin-top:0px"> -->
-                        <hr style="margin-top:0px">
-                    </div>
-                </div>
-            </div> 
-        </section>
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="col text-center">
-                        <video hight="50%" width="40%" playsinline controls autoplay loop="loop" preload muted>
-                            <source src="https://github.com/anoymousauthor/anoymousauthor.github.io/releases/download/v0.0/phone.demo.4.mp4" type="video/mp4">
-                        </video>
-                    </div>
-                    <br>
-                </div>
-            </div>
-        </section>
-    
     </body>
 
 </html>
