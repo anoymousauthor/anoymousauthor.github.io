@@ -252,10 +252,12 @@
             }
             .steps {
                 /* --normal-color: #666; */
-                --normal-color: #6e6e6e;
+                /* --normal-color: #6e6e6e; */
+                --normal-color: #74f1b9;
                 /* --active-color: #06e; */
                 /* --active-color: #6e6e6e; */
-                --active-color: #6c6c91;
+                /* --active-color: #6c6c91; */
+                --active-color: #42b983;
                 display: flex;
                 justify-content: space-between;
                 padding: 0;
