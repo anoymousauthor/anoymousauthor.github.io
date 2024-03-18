@@ -1,4 +1,4 @@
-# SlimFit-Gens: Extremely-low Bandwidth One-on-one Video Calls on Mobile Devices
+# SlimFit-Gens: Extremely-low Bandwidth One-on-one Portrait Video Calls on Mobile Devices
 <html>
     <head>
         <link href="css/bootstrap-4.4.1.css" rel="stylesheet">
@@ -324,7 +324,13 @@
                             <!-- <source src="https://github.com/growthin2023/VIDAR.github.io/releases/download/v0.0/third_view.mp4" type="video/mp4"> -->
                         <!-- </video> -->
                         <!-- <img class="img-fluid" src="https://github.com/anoymousauthor/anoymousauthor.github.io/releases/download/v0.0/video.png" alt="Mobile3DScanner Teaser" width="100%"> -->
-                        <img class="img-fluid" src="data/video/video.png" alt="Mobile3DScanner Teaser" width="80%">
+                        <!-- <img class="img-fluid" src="data/video/video.png" alt="model performance video" width="80%"> -->
+                        <video hight="50%" width="40%" playsinline controls autoplay loop="loop" preload muted>
+                            <source src="https://github.com/anoymousauthor/anoymousauthor.github.io/releases/download/v1.0/out1.mp4" type="video/mp4">
+                            <source src="https://github.com/anoymousauthor/anoymousauthor.github.io/releases/download/v1.0/out2.mp4" type="video/mp4">
+                            <source src="https://github.com/anoymousauthor/anoymousauthor.github.io/releases/download/v1.0/out3.mp4" type="video/mp4">
+                            <source src="https://github.com/anoymousauthor/anoymousauthor.github.io/releases/download/v1.0/out4.mp4" type="video/mp4">
+                        </video>
                     </div>
                 </div>
             </div>
