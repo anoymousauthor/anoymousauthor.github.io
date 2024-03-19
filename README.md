@@ -8,6 +8,10 @@
                 color: #8899a5;
                 font-size: 12px;
             }
+            span {
+                font-size: 20px;
+                font-weight: bolder;
+            }
             p {
                 margin-top: 0;
                 margin-bottom: 1rem;
