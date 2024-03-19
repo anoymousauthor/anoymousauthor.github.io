@@ -331,7 +331,7 @@
                         <!-- </video> -->
                         <!-- <img class="img-fluid" src="https://github.com/anoymousauthor/anoymousauthor.github.io/releases/download/v0.0/video.png" alt="Mobile3DScanner Teaser" width="100%"> -->
                         <!-- <img class="img-fluid" src="data/video/video.png" alt="model performance video" width="80%"> -->
-                        <h3 style="font-size:20px; color:black;">Origin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FOM
+                        <h3 style="font-size:20px; color:black;">&nbsp;&nbsp;&nbsp;Origin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FOM
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LBVC
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ECFA
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ours
